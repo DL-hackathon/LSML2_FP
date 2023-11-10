@@ -10,4 +10,4 @@ Please perform the following steps to start the final project:
    docker run -d --rm -p 80:80 lsml2_fp:01
 4. In a browser go to: localhost:80
 5. If everything is correct, you will see main page of the project web-service.
-   ![pic](https://github.com/DL-hackathon/lsml2_fp/blob/main/web_service.png)
+   ![pic](https://github.com/DL-hackathon/lsml2_fp/blob/main/pic/web_service.png)
